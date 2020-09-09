@@ -16,7 +16,7 @@
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <file_name>grip_tester.zip</file_name>
         <author_name>Drew</author_name>
-        <download_url>https://raw.githubusercontent.com/Drew973/grip_tester_qgis3/grip_tester.zip</download_url>
+        <download_url>https://raw.githubusercontent.com/Drew973/grip_tester_qgis3/master/grip_tester.zip</download_url>
     </pyqgis_plugin>
 
 </plugins>
