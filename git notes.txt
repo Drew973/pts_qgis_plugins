@@ -1,0 +1,18 @@
+git init
+
+
+git add 
+for each file
+
+git commit -m "initial commit"
+
+
+
+
+git remote add origin https://github.com/Drew973/qgis-plugins.git
+
+#git remote add origin https://github.com/Drew973/grip_tester_qgis3.git
+
+git branch -M master
+
+git push -u origin master
