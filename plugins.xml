@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <plugins>
-    <pyqgis_plugin name="ssir_generator" version="3.2">
+    <pyqgis_plugin name="ssir_generator" version="3.20">
         <description>Plugin for making skid site investigation reports</description>
         <homepage></homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
