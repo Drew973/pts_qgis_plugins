@@ -11,8 +11,7 @@ add...
 
 set name to pts plugins
 
-set URL to:	https://raw.githubusercontent.com/Drew973/qgis-plugins/master/plugins.xml
-
+set URL to:	https://raw.githubusercontent.com/Drew973/pts_qgis_plugins/master/plugins.xml
 
 right click on new repository. then show only plugins from selected repository
 

@@ -7,6 +7,7 @@ for each file
 git commit -m "initial commit"
 
 
+git commit -m "tidying"
 
 
 git remote add origin https://github.com/Drew973/qgis-plugins.git

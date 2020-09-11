@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/ssir_generator" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
