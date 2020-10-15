@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <plugins>
-    <pyqgis_plugin name="ssir_generator" version="3.20">
+    <pyqgis_plugin name="ssir_generator" version="3.21">
         <description>Plugin for making skid site investigation reports</description>
         <homepage></homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
@@ -9,9 +9,8 @@
         <download_url>https://raw.githubusercontent.com/Drew973/ssir_generator_qgis3/master/ssirgenerator.zip</download_url>
     </pyqgis_plugin>
 
-<plugins>
-    <pyqgis_plugin name="griptester" version="3.00">
-        <description>Plugin for making skid site investigation reports</description>
+    <pyqgis_plugin name="griptester" version="3.01">
+        <description>Plugin for processing grip tester readings</description>
         <homepage></homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <file_name>grip_tester.zip</file_name>
@@ -19,4 +18,24 @@
         <download_url>https://raw.githubusercontent.com/Drew973/grip_tester_qgis3/master/grip_tester.zip</download_url>
     </pyqgis_plugin>
 
+
+    <pyqgis_plugin name="manual_sec_builder" version="3.02">
+        <description>Plugin for making routes</description>
+        <homepage></homepage>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <file_name>manual_sec_builder.zip</file_name>
+        <author_name>Drew</author_name>
+        <download_url>https://raw.githubusercontent.com/Drew973/pts_manual_sec_builder_qgis3/master/manual_sec_builder.zip</download_url>
+    </pyqgis_plugin>
+
+
+    <pyqgis_plugin name="hsrr_processor" version="3.05">
+        <description>Plugin for processing hsrr data. </description>
+        <homepage></homepage>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <file_name>hsrrprocessor.zip</file_name>
+        <author_name>Drew</author_name>
+        <download_url>https://raw.githubusercontent.com/Drew973/pts_hsrr_processor_qgis3/master/hsrrprocessor.zip</download_url>
+    </pyqgis_plugin>    
+    
 </plugins>

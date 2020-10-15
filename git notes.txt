@@ -6,6 +6,12 @@ for each file
 
 git commit -m "initial commit"
 
+git commit -m "version 3.21"
+
+git commit -m "version 3.02"
+git commit -m "version 3.01"
+
+git commit -m "version 3.04"
 
 git commit -m "tidying"
 
@@ -14,6 +20,12 @@ git remote add origin https://github.com/Drew973/qgis-plugins.git
 
 #git remote add origin https://github.com/Drew973/grip_tester_qgis3.git
 
+
+#git remote add origin https://github.com/Drew973/manual_sec_builder_qgis3.git
+
 git branch -M master
 
 git push -u origin master
+
+
+git remote add origin https://github.com/Drew973/ssir_generator_qgis3.git
