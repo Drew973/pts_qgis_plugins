@@ -37,5 +37,15 @@
         <author_name>Drew</author_name>
         <download_url>https://raw.githubusercontent.com/Drew973/pts_hsrr_processor_qgis3/master/hsrrprocessor.zip</download_url>
     </pyqgis_plugin>    
+
+    
+    <pyqgis_plugin name="site_categorizer" version="3.01">
+        <description>Plugin for processing hsrr data. </description>
+        <homepage></homepage>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <file_name>site_categorizer.zip</file_name>
+        <author_name>Drew</author_name>
+        <download_url>https://raw.githubusercontent.com/Drew973/pts_site_categorizer/master/site_categorizer.zip</download_url>
+    </pyqgis_plugin>  
     
 </plugins>
