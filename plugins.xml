@@ -19,7 +19,7 @@
     </pyqgis_plugin>
 
 
-    <pyqgis_plugin name="manual_sec_builder" version="3.10">
+    <pyqgis_plugin name="manual_sec_builder" version="3.11">
         <description>Plugin for making routes</description>
         <homepage></homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
