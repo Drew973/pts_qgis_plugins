@@ -51,13 +51,13 @@
     
     
     
-    <pyqgis_plugin name="hsrr_processor" version="3.05">
+    <pyqgis_plugin name="hsrr_processor" version="3.07">
         <description>Plugin for processing hsrr data. </description>
         <homepage></homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <file_name>hsrrprocessor.zip</file_name>
         <author_name>Drew</author_name>
-        <download_url>https://raw.githubusercontent.com/Drew973/pts_hsrr_processor_qgis3/master/hsrrprocessor.zip</download_url>
+        <download_url>https://raw.githubusercontent.com/Drew973/pts_hsrr_processor_qgis3/3.07/hsrrprocessor.zip</download_url>
     </pyqgis_plugin>    
 
     
