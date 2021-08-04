@@ -17,16 +17,9 @@ right click on new repository. then show only plugins from selected repository
 
 not installed
 
-select ssir_generator and install (may get plugin has disappeared... error message. ignore it.).
+select plugin and install (may get plugin has disappeared... error message. ignore it.).
 
-go to installed and make sure checkbox next to ssir_generator is ticked.(may need to restart qgis first)
+go to installed and make sure checkbox next to plugin is ticked.(may need to restart qgis first)
 
 
-
-Open with:
-
-Plugins
-
-SSIR_Generator
-
-or icon
+plugin opens through Plugins menu or icon.
