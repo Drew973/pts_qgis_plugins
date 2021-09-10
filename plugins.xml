@@ -42,6 +42,18 @@
  
     
     
+    <pyqgis_plugin name="split_by_chainage" version="3.00">
+        <description>Plugin to split features of vector layer by chainange</description>
+        <homepage></homepage>
+        <qgis_minimum_version>2.0</qgis_minimum_version>
+        <file_name>splitbychainage.zip</file_name>
+        <author_name>Drew</author_name>
+        <download_url>https://raw.githubusercontent.com/Drew973/split_by_chainage/master/splitbychainage.zip</download_url>
+    </pyqgis_plugin>       
+    
+    
+    
+    
     
     <pyqgis_plugin name="hsrr_processor" version="3.12">
         <description>Plugin for processing hsrr data. </description>
