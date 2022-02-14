@@ -75,13 +75,13 @@
     </pyqgis_plugin>  
     
     
-    <pyqgis_plugin name="many_to_one_mapper" version="3.00">
+    <pyqgis_plugin name="many_to_one_mapper" version="3.1">
         <description>plugin to make csv mapping many features of layer to another layer. </description>
         <homepage></homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <file_name>manytoonemapper.zip</file_name>
         <author_name>Drew</author_name>
-        <download_url>https://raw.githubusercontent.com/Drew973/pts_qgis_plugins/master/manytoonemapper.zip</download_url>
+        <download_url>https://raw.githubusercontent.com/Drew973/many_to_one_mapper/master/manytoonemapper.zip</download_url>
     </pyqgis_plugin>
     
     
