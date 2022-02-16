@@ -75,7 +75,7 @@
     </pyqgis_plugin>  
     
     
-    <pyqgis_plugin name="many_to_one_mapper" version="3.1">
+    <pyqgis_plugin name="many_to_one_mapper" version="3.11">
         <description>plugin to make csv mapping many features of layer to another layer. </description>
         <homepage></homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
