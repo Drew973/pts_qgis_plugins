@@ -41,7 +41,7 @@
      
     
     
-    <pyqgis_plugin name="pts_tools" version="3.07">
+    <pyqgis_plugin name="pts_tools" version="3.08">
         <description>PTS algorithms</description>
         <homepage></homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
