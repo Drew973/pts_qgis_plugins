@@ -51,7 +51,7 @@
     </pyqgis_plugin>       
     
     
-    <pyqgis_plugin name="PTS_image_loader" version="3.11">
+    <pyqgis_plugin name="PTS_image_loader" version="3.12">
         <description>Tool for bulk loading/unloading geotif images.</description>
         <homepage></homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
