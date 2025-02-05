@@ -51,7 +51,7 @@
     </pyqgis_plugin>       
     
     
-    <pyqgis_plugin name="PTS_image_loader" version="3.46">
+    <pyqgis_plugin name="PTS_image_loader" version="3.47">
         <description>Tool for georeferencing images and correcting positions.</description>
         <homepage></homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
